@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🖐️ Olá! Eu sou o Matheus Castro  
 
-<!--
-**Couks/Couks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-end Developer** | 🚀 Focado em **React, Next.js & React Native**  
 
-Here are some ideas to get you started:
+🎯 Buscando aprimorar minhas habilidades e me tornar um **desenvolvedor pleno**, com ênfase em **performance, arquitetura e boas práticas** no ecossistema React.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Stacks principais  
+
+- **Front-end:** React, Next.js, React Native  
+- **Back-end:** NestJS e NodeJS  
+- **Ferramentas & Tecnologias:** TypeScript, TailwindCSS, ShadCN UI, Zustand  
+- **Infra & APIs:** OpenAI API, Google API, consumo de APIs REST e GraphQL  
+
+💡 Apaixonado por tecnologia e desenvolvimento de interfaces fluidas e acessíveis. Sempre explorando novas formas de melhorar a experiência do usuário e otimizar aplicações!  
+
+📫 **Contato:** Me encontre por aqui ou no [LinkedIn](https://www.linkedin.com/in/matheus-castro)  
