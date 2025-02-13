@@ -13,4 +13,4 @@
 
 💡 Apaixonado por tecnologia e desenvolvimento de interfaces fluidas e acessíveis. Sempre explorando novas formas de melhorar a experiência do usuário e otimizar aplicações!  
 
-📫 **Contato:** Me encontre por aqui ou no [LinkedIn](https://www.linkedin.com/in/matheus-castro)  
+📫 **Contato:** Me encontre por aqui ou no [LinkedIn](https://www.linkedin.com/in/matheus-castro-araujo/)  
