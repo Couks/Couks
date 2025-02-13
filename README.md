@@ -1,16 +1,13 @@
-# 🖐️ Olá! Eu sou o Matheus Castro  
+🖐️ Hey! I'm Matheus Castro
+💻 Front-end Developer | 🚀 Focused on React, Next.js & React Native
 
-💻 **Front-end Developer** | 🚀 Focado em **React, Next.js & React Native**  
+🎯 Aiming to enhance my skills and become a mid-level developer, with an emphasis on performance, architecture, and best practices within the React ecosystem.
 
-🎯 Buscando aprimorar minhas habilidades e me tornar um **desenvolvedor pleno**, com ênfase em **performance, arquitetura e boas práticas** no ecossistema React.  
+📌 Main Tech Stack
+Front-end: React, Next.js, React Native
+Back-end: NestJS and NodeJS
+Tools & Technologies: TypeScript, TailwindCSS, ShadCN UI, Zustand
+Infra & APIs: OpenAI API, Google API, REST and GraphQL API consumption
+💡 Passionate about technology and developing smooth, accessible user interfaces. Always exploring new ways to improve user experience and optimize applications!
 
-## 📌 Stacks principais  
-
-- **Front-end:** React, Next.js, React Native  
-- **Back-end:** NestJS e NodeJS  
-- **Ferramentas & Tecnologias:** TypeScript, TailwindCSS, ShadCN UI, Zustand  
-- **Infra & APIs:** OpenAI API, Google API, consumo de APIs REST e GraphQL  
-
-💡 Apaixonado por tecnologia e desenvolvimento de interfaces fluidas e acessíveis. Sempre explorando novas formas de melhorar a experiência do usuário e otimizar aplicações!  
-
-📫 **Contato:** Me encontre por aqui ou no [LinkedIn](https://www.linkedin.com/in/matheus-castro-araujo/)  
+📫 Contact: Connect with me here or on [LinkedIn](https://www.linkedin.com/in/matheus-castro-araujo/)  
