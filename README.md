@@ -8,7 +8,7 @@
 
 - **Front-end:** React, Next.js, React Native  
 - **Back-end:** NestJS and NodeJS  
-- **Tools & Technologies:** TypeScript, TailwindCSS, ShadCN UI, Zustand  
+- **Tools & Technologies:** TypeScript, TailwindCSS, ShadCN UI, Zustand, Redux
 - **Infra & APIs:** OpenAI API, Google API, REST and GraphQL API consumption  
 
 💡 Passionate about technology and developing smooth, accessible user interfaces. Always exploring new ways to improve user experience and optimize applications!  
