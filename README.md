@@ -1,3 +1,4 @@
+<div align="center">
 ## 👋 Hey, I'm Matheus Castro
 
 💻 Front-end Developer focused on performance, clean architecture, and scalable user interfaces using React and modern web tools.
@@ -35,9 +36,7 @@ You can also check out some of my projects right here on GitHub!
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
-<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Couks&show_icons=true&theme=radical" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Couks&layout=compact&theme=radical" />
 </div>
