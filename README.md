@@ -14,3 +14,4 @@
 💡 Passionate about technology and developing smooth, accessible user interfaces. Always exploring new ways to improve user experience and optimize applications!  
 
 📫 **Contact:** Connect with me here or on [LinkedIn](https://www.linkedin.com/in/matheus-castro-araujo/)  
+![image](https://github.com/user-attachments/assets/5a0cd742-9cb2-417f-9bc9-86ffc3be62de)
