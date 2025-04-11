@@ -35,6 +35,10 @@ You can also check out some of my projects right here on GitHub!
 
 ## 📊 GitHub Stats
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Couks&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Couks&layout=compact&theme=radical)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Couks&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Couks&layout=compact&theme=radical" />
+</div>
+
