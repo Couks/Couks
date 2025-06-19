@@ -1,10 +1,8 @@
-<div align="center">
+<div align="left">
 
 <h2>👋 Hey, I'm Matheus Castro</h2>
 
 <p>💻 Front-end Developer focused on performance, clean architecture, and scalable user interfaces using React and modern web tools.</p>
-
-<img src="https://github.com/user-attachments/assets/5a0cd742-9cb2-417f-9bc9-86ffc3be62de" alt="Banner" />
 
 <h2>🛠️ Tech Stack</h2>
 
